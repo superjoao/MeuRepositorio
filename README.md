@@ -1,3 +1,5 @@
-# DEMO
-
-Description.
+- 👋 Hi, I’m @superjoao
+- 👀 I’m interested in programer
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
