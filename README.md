@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @superjoao
-- 👀 I’m interested in programer
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @superjoaoluis
+- 👀 I’m interested in Python and C
+- 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
