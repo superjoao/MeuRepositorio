@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superjoaoluis
+- 👋 Hi, I’m Joao Luis
 - 👀 I’m interested in Python and C
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ...
